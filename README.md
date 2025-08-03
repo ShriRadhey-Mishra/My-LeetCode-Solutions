@@ -21,6 +21,7 @@
 - Leetcode 242: Valid Anagram
 - Leetcode 268: Missing Number
 - Leetcode 412: Fizz Buzz
+- Leetcode 1154: Day of the Year
 
 ## Medium
 - Leetcode 8: String to Integer (atoi)
