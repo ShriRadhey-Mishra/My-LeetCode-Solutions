@@ -15,6 +15,7 @@
 - Leetcode 66: Plus One
 - Leetcode 67: Add Binary
 - Leetcode 69: Sqrt(x)
+- Leetcode 83: Remove Duplicates from Sorted List
 - Leetcode 121: Best Time to Buy and Sell Stock
 - Leetcode 125: Valid Palindrome
 - Leetcode 217: Contains Duplicate
