@@ -23,6 +23,7 @@
 - Leetcode 268: Missing Number
 - Leetcode 412: Fizz Buzz
 - Leetcode 1154: Day of the Year
+- Leetcide 2619: Array Prototype Last
 - Leetcode 3477: Fruits Into Baskets II
 
 ## Medium
