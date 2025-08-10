@@ -1,4 +1,4 @@
-package Leetcode.src.Easy;
+package Easy;
 
 public class Leetcode121 {
     public int maxProfit(int[] prices) {

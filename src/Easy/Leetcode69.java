@@ -1,4 +1,4 @@
-package Leetcode.src.Easy;
+package Easy;
 
 public class Leetcode69 {
     public int mySqrt(int x) {

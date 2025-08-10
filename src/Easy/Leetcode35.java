@@ -1,4 +1,4 @@
-package Leetcode.src.Easy;
+package Easy;
 
 public class Leetcode35 {
     public int searchInsert(int[] nums, int target) {

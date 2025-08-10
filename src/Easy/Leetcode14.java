@@ -1,4 +1,4 @@
-package Leetcode.src.Easy;
+package Easy;
 
 public class Leetcode14 {
     public String longestCommonPrefix(String[] strs) {
