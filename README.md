@@ -30,6 +30,7 @@
 - Leetcode 3477: Fruits Into Baskets II
 
 ## Medium
+- Leetcode 7: Reverse Integer
 - Leetcode 8: String to Integer (atoi)
 - Leetcode 48: Rotate Image
 
