@@ -32,6 +32,7 @@
 ## Medium
 - Leetcode 7: Reverse Integer
 - Leetcode 8: String to Integer (atoi)
+- Leetcode 29: Divide Two Integer
 - Leetcode 48: Rotate Image
 
 ## Hard
