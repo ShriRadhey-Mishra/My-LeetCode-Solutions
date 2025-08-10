@@ -19,6 +19,7 @@
 - Leetcode 88: Merge Sorted Array
 - Leetcode 121: Best Time to Buy and Sell Stock
 - Leetcode 125: Valid Palindrome
+- Leetcode 136: Single Number
 - Leetcode 217: Contains Duplicate
 - Leetcode 242: Valid Anagram
 - Leetcode 268: Missing Number
