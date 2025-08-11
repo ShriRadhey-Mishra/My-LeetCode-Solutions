@@ -1,13 +1,5 @@
 package Easy;
 
-class ListNode {
-    int val;
-    ListNode next;
-    ListNode() {}
-    ListNode(int val) { this.val = val; }
-    ListNode(int val, ListNode next) { this.val = val; this.next = next; }
-}
-
 public class Leetcode21 {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
         ListNode merged = new ListNode();
