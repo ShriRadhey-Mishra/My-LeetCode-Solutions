@@ -1,8 +1,8 @@
 package Medium;
 
-public class Leeetcode7 {
+public class Leetcode7 {
     public static void main(String[] args) {
-        Leeetcode7 obj = new Leeetcode7();
+        Leetcode7 obj = new Leetcode7();
         int num = 123;
         System.out.println(obj.reverse(num));
     }
