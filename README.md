@@ -34,6 +34,7 @@
 - Leetcode 2: Add two numbers
 - Leetcode 7: Reverse Integer
 - Leetcode 8: String to Integer (atoi)
+- Leetcode 12: Integer to Roman
 - Leetcode 29: Divide Two Integer
 - Leetcode 36: Valid Sudoku
 - Leetcode 48: Rotate Image
