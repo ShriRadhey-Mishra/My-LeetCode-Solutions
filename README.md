@@ -21,6 +21,7 @@
 - Leetcode 125: Valid Palindrome
 - Leetcode 136: Single Number
 - Leetcode 141: Linked List Cycle
+- Leetcode 160: Intersection of Two Linked List
 - Leetcode 217: Contains Duplicate
 - Leetcode 242: Valid Anagram
 - Leetcode 268: Missing Number
