@@ -2,7 +2,6 @@
 
 ## Easy
 
----
 1. [Leetcode 1: Two Sum](https://leetcode.com/problems/two-sum/submissions/1708276043/)
 2. [Leetcode 9: Palindrome Number](https://leetcode.com/problems/palindrome-number/submissions/1709481733/)
 3. [Leetcode 13: Roman to Integer](https://leetcode.com/problems/roman-to-integer/submissions/1711259148/)
@@ -36,7 +35,6 @@
 
 ## Medium
 
----
 1. [Leetcode 2: Add Two Numbers](https://leetcode.com/submissions/detail/1731677890/)
 2. [Leetcode 7: Reverse Integer](https://leetcode.com/submissions/detail/1730364196/)
 3. [Leetcode 8: String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/submissions/1714360105/)
@@ -47,5 +45,4 @@
 
 ## Hard
 
----
 1. [Leetcode 4: Median of Two Sorted Arrays](https://leetcode.com/submissions/detail/1732949958/)
