@@ -27,6 +27,7 @@
 - Leetcode 268: Missing Number
 - Leetcode 412: Fizz Buzz
 - Leetcode 1154: Day of the Year
+- Leetcode 1323: Maximum 69 Number
 - Leetcode 2619: Array Prototype Last
 - Leetcode 2620: Counter
 - Leetcode 3477: Fruits Into Baskets II
