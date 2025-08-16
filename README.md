@@ -24,13 +24,14 @@
 21. Leetcode 160: Intersection of Two Linked List
 22. Leetcode 217: Contains Duplicate
 23. Leetcode 242: Valid Anagram
-24. Leetcode 268: Missing Number
-25. Leetcode 412: Fizz Buzz
-26. Leetcode 1154: Day of the Year
-27. Leetcode 1323: Maximum 69 Number
-28. Leetcode 2619: Array Prototype Last
-29. Leetcode 2620: Counter
-30. Leetcode 3477: Fruits Into Baskets II
+24. Leetcode 258: Add Digits
+25. Leetcode 268: Missing Number
+26. Leetcode 412: Fizz Buzz
+27. Leetcode 1154: Day of the Year
+28. Leetcode 1323: Maximum 69 Number
+29. Leetcode 2619: Array Prototype Last
+30. Leetcode 2620: Counter
+31. Leetcode 3477: Fruits Into Baskets II
 
 ## Medium
 1. Leetcode 2: Add two numbers
