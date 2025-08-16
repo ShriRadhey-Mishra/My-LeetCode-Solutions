@@ -22,16 +22,17 @@
 19. Leetcode 136: Single Number
 20. Leetcode 141: Linked List Cycle
 21. Leetcode 160: Intersection of Two Linked List
-22. Leetcode 217: Contains Duplicate
-23. Leetcode 242: Valid Anagram
-24. Leetcode 258: Add Digits
-25. Leetcode 268: Missing Number
-26. Leetcode 412: Fizz Buzz
-27. Leetcode 1154: Day of the Year
-28. Leetcode 1323: Maximum 69 Number
-29. Leetcode 2619: Array Prototype Last
-30. Leetcode 2620: Counter
-31. Leetcode 3477: Fruits Into Baskets II
+22. Leetcode 202: Happy Number
+23. Leetcode 217: Contains Duplicate
+24. Leetcode 242: Valid Anagram
+25. Leetcode 258: Add Digits
+26. Leetcode 268: Missing Number
+27. Leetcode 412: Fizz Buzz
+28. Leetcode 1154: Day of the Year
+29. Leetcode 1323: Maximum 69 Number
+30. Leetcode 2619: Array Prototype Last
+31. Leetcode 2620: Counter
+32. Leetcode 3477: Fruits Into Baskets II
 
 ## Medium
 1. Leetcode 2: Add two numbers
