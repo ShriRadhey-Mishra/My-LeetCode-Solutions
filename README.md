@@ -1,4 +1,4 @@
-## Questions solved
+# Questions solved
 
 ## Easy
 - Leetcode 1: Two Sum
