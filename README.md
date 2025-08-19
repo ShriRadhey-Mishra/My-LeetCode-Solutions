@@ -20,7 +20,7 @@
 17. Leetcode 121: Best Time to Buy and Sell Stock
 18. Leetcode 125: Valid Palindrome
 19. Leetcode 136: Single Number
-20. Leetcode 141: Linked List Cycle
+20. Leetcode 141: Linked List Cycle I
 21. Leetcode 160: Intersection of Two Linked List
 22. Leetcode 202: Happy Number
 23. Leetcode 217: Contains Duplicate
@@ -45,6 +45,7 @@
 7. Leetcode 36: Valid Sudoku
 8. Leetcode 43: Multipy Strings
 9. Leetcode 48: Rotate Image
+10. Leetcode 142: Linked List Cycle II
 
 ## Hard
 1. Leetcode 4: Median of Two Sorted Arrays
