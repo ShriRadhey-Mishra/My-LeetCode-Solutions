@@ -46,6 +46,7 @@
 8. Leetcode 43: Multipy Strings
 9. Leetcode 48: Rotate Image
 10. Leetcode 142: Linked List Cycle II
+11. Leetcode 287: Find the Duplicate Number
 
 ## Hard
 1. Leetcode 4: Median of Two Sorted Arrays
