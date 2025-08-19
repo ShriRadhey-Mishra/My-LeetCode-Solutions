@@ -7,15 +7,12 @@ public class Leetcode141 {
         ListNode slow = head;
         ListNode fast = head;
 
-        try {
-            while (fast != null || fast.next != null) {
-                slow = slow.next;
-                fast = fast.next.next;
-                if (slow == fast) return true;
-            }
-        } catch (NullPointerException e) {
-            return false;
+        while (fast != null && fast.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
+            if (slow == fast) return true;
         }
+
         return false;
     }
 
