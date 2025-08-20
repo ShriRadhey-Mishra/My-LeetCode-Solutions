@@ -33,7 +33,11 @@
 30. Leetcode 1323: Maximum 69 Number
 31. Leetcode 2619: Array Prototype Last
 32. Leetcode 2620: Counter
-33. Leetcode 3477: Fruits Into Baskets II
+33. Leetcode 2621: Sleep
+34. Leetcode 2626: Array Reduce Transformation
+35. Leetcode 2629: Function Composition
+36. Leetcode 2648: Generate Fibonacci Sequence
+37. Leetcode 3477: Fruits Into Baskets II
 
 ## Medium
 1. Leetcode 2: Add two numbers
@@ -45,8 +49,9 @@
 7. Leetcode 36: Valid Sudoku
 8. Leetcode 43: Multipy Strings
 9. Leetcode 48: Rotate Image
-10. Leetcode 142: Linked List Cycle II
-11. Leetcode 287: Find the Duplicate Number
+10. Leetcode 50: Pow(x, n)
+11. Leetcode 142: Linked List Cycle II
+12. Leetcode 287: Find the Duplicate Number
 
 ## Hard
 1. Leetcode 4: Median of Two Sorted Arrays
