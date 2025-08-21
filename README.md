@@ -32,6 +32,7 @@
 29. Leetcode 415: Add Strings
 30. Leetcode 1154: Day of the Year
 31. Leetcode 1323: Maximum 69 Number
+32. Leetcode 1550: Three Consecutive Odds
 32. Leetcode 2619: Array Prototype Last
 33. Leetcode 2620: Counter
 34. Leetcode 2621: Sleep
