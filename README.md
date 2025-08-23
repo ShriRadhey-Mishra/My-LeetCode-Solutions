@@ -31,16 +31,17 @@
 28. Leetcode 374: Guess Number Higher or Lower
 29. Leetcode 412: Fizz Buzz
 30. Leetcode 415: Add Strings
-31. Leetcode 1154: Day of the Year
-32. Leetcode 1323: Maximum 69 Number
-33. Leetcode 1550: Three Consecutive Odds
-34. Leetcode 2619: Array Prototype Last
-35. Leetcode 2620: Counter
-36. Leetcode 2621: Sleep
-37. Leetcode 2626: Array Reduce Transformation
-38. Leetcode 2629: Function Composition
-39. Leetcode 2648: Generate Fibonacci Sequence
-40. Leetcode 3477: Fruits Into Baskets II
+31. Leetcode 896: Monotonic Array
+32. Leetcode 1154: Day of the Year
+33. Leetcode 1323: Maximum 69 Number
+34. Leetcode 1550: Three Consecutive Odds
+35. Leetcode 2619: Array Prototype Last
+36. Leetcode 2620: Counter
+37. Leetcode 2621: Sleep
+38. Leetcode 2626: Array Reduce Transformation
+39. Leetcode 2629: Function Composition
+40. Leetcode 2648: Generate Fibonacci Sequence
+41. Leetcode 3477: Fruits Into Baskets II
 
 ## Medium
 1. Leetcode 2: Add two numbers
