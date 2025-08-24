@@ -56,6 +56,7 @@
 10. Leetcode 50: Pow(x, n)
 11. Leetcode 142: Linked List Cycle II
 12. Leetcode 287: Find the Duplicate Number
+13. Leetcode 537: Complex Number Multiplication
 
 ## Hard
 1. Leetcode 4: Median of Two Sorted Arrays
