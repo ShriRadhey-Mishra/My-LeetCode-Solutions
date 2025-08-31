@@ -43,13 +43,13 @@
 40. Leetcode 1323: Maximum 69 Number
 41. Leetcode 1550: Three Consecutive Odds
 42. Leetcode 2441: Largest Positive Integer That Exists With Its Negative
-42. Leetcode 2619: Array Prototype Last
-43. Leetcode 2620: Counter
-44. Leetcode 2621: Sleep
-45. Leetcode 2626: Array Reduce Transformation
-46. Leetcode 2629: Function Composition
-47. Leetcode 2648: Generate Fibonacci Sequence
-48. Leetcode 3477: Fruits Into Baskets II
+43. Leetcode 2619: Array Prototype Last
+44. Leetcode 2620: Counter
+45. Leetcode 2621: Sleep
+46. Leetcode 2626: Array Reduce Transformation
+47. Leetcode 2629: Function Composition
+48. Leetcode 2648: Generate Fibonacci Sequence
+49. Leetcode 3477: Fruits Into Baskets II
 
 ## Medium
 1. Leetcode 2: Add two numbers
