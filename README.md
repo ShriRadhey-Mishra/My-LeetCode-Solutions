@@ -42,6 +42,7 @@
 39. Leetcode 1154: Day of the Year
 40. Leetcode 1323: Maximum 69 Number
 41. Leetcode 1550: Three Consecutive Odds
+42. Leetcode 2441: Largest Positive Integer That Exists With Its Negative
 42. Leetcode 2619: Array Prototype Last
 43. Leetcode 2620: Counter
 44. Leetcode 2621: Sleep
