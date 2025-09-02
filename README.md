@@ -63,6 +63,7 @@
 8. Leetcode 43: Multipy Strings
 9. Leetcode 48: Rotate Image
 10. Leetcode 50: Pow(x, n)
+11. Leetcode 54: Spiral Matrix
 11. Leetcode 142: Linked List Cycle II
 12. Leetcode 287: Find the Duplicate Number
 13. Leetcode 537: Complex Number Multiplication
