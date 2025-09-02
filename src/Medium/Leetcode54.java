@@ -20,25 +20,25 @@ public class Leetcode54 {
 
         while (list.size() < m * n) {
             // Traverse left -> right
-            for (int i = left; i <= right; i++) {
+            for (int i = left; i <= right && list.size() < m * n; i++) {
                 list.add(matrix[up][i]);
             }
             up++;
 
             // Traverse top -> bottom
-            for (int i = up; i <= down; i++) {
+            for (int i = up; i <= down && list.size() < m * n; i++) {
                 list.add(matrix[i][right]);
             }
             right--;
 
             // Traverse right -> left
-            for (int i = right; i >= left; i--) {
+            for (int i = right; i >= left && list.size() < m * n; i--) {
                 list.add(matrix[down][i]);
             }
             down--;
 
             // Traverse bottom -> top
-            for (int i = down; i >= up; i--) {
+            for (int i = down; i >= up && list.size() < m * n; i--) {
                 list.add(matrix[i][left]);
             }
             left++;
