@@ -67,9 +67,10 @@
 11. Leetcode 54: Spiral Matrix I
 12. Leetcode 59: Spiral Matrix II
 13. Leetcode 142: Linked List Cycle II
-14. Leetcode 287: Find the Duplicate Number
-15. Leetcode 537: Complex Number Multiplication
-16. Leetcode 540: Single Element in a Sorted Array
+14. Leetcode 151: Reverse Words in a String
+15. Leetcode 287: Find the Duplicate Number
+16. Leetcode 537: Complex Number Multiplication
+17. Leetcode 540: Single Element in a Sorted Array
 
 ## Hard
 1. Leetcode 4: Median of Two Sorted Arrays
