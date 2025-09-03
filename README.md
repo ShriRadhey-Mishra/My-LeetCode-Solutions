@@ -50,7 +50,8 @@
 47. Leetcode 2626: Array Reduce Transformation
 48. Leetcode 2629: Function Composition
 49. Leetcode 2648: Generate Fibonacci Sequence
-50. Leetcode 3477: Fruits Into Baskets II
+50. Leetcode 3174: Clear Digits
+51. Leetcode 3477: Fruits Into Baskets II
 
 ## Medium
 1. Leetcode 2: Add two numbers
