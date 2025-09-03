@@ -12,21 +12,32 @@ public class Leetcode3174 {
     }
 
     public String clearDigits(String s) {
-        Stack<Character> stack = new Stack<>();
-        String sb = "";
+//        3ms Solution
+//        Stack<Character> stack = new Stack<>();
+//        String sb = "";
+//
+//        for (int i = 0; i < s.length(); i++) {
+//
+//            if ((s.charAt(i) - '0') / 10 == 0) {
+//                stack.pop();
+//            } else {
+//                stack.push(s.charAt(i));
+//            }
+//        }
+//
+//        while (!stack.isEmpty()) {
+//            sb = stack.pop().toString() + sb;
+//        }
+//        return sb;
 
+//        1ms Solution
+        StringBuilder sb = new StringBuilder();
         for (int i = 0; i < s.length(); i++) {
-
-            if ((s.charAt(i) - '0') / 10 == 0) {
-                stack.pop();
-            } else {
-                stack.push(s.charAt(i));
-            }
+            char ch = s.charAt(i);
+            boolean digit = Character.isDigit(ch);
+            if (!digit) sb.append(ch);
+            else sb.deleteCharAt(sb.length()-1);
         }
-
-        while (!stack.isEmpty()) {
-            sb = stack.pop().toString() + sb;
-        }
-        return sb;
+        return sb.toString();
     }
 }
