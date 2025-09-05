@@ -58,6 +58,7 @@
 2. Leetcode 7: Reverse Integer
 3. Leetcode 8: String to Integer (atoi)
 4. Leetcode 12: Integer to Roman
+5. Leetcode 19: Remove Nth Node from End of the List
 5. Leetcode 29: Divide Two Integer
 6. Leetcode 34: Find First and Last Position of Element in Sorted Array
 7. Leetcode 36: Valid Sudoku
@@ -71,6 +72,7 @@
 15. Leetcode 287: Find the Duplicate Number
 16. Leetcode 537: Complex Number Multiplication
 17. Leetcode 540: Single Element in a Sorted Array
+18. Leetcode 739: Daily Temperatures
 
 ## Hard
 1. Leetcode 4: Median of Two Sorted Arrays
