@@ -59,20 +59,20 @@
 3. Leetcode 8: String to Integer (atoi)
 4. Leetcode 12: Integer to Roman
 5. Leetcode 19: Remove Nth Node from End of the List
-5. Leetcode 29: Divide Two Integer
-6. Leetcode 34: Find First and Last Position of Element in Sorted Array
-7. Leetcode 36: Valid Sudoku
-8. Leetcode 43: Multipy Strings
-9. Leetcode 48: Rotate Image
-10. Leetcode 50: Pow(x, n)
-11. Leetcode 54: Spiral Matrix I
-12. Leetcode 59: Spiral Matrix II
-13. Leetcode 142: Linked List Cycle II
-14. Leetcode 151: Reverse Words in a String
-15. Leetcode 287: Find the Duplicate Number
-16. Leetcode 537: Complex Number Multiplication
-17. Leetcode 540: Single Element in a Sorted Array
-18. Leetcode 739: Daily Temperatures
+6. Leetcode 29: Divide Two Integer
+7. Leetcode 34: Find First and Last Position of Element in Sorted Array
+8. Leetcode 36: Valid Sudoku
+9. Leetcode 43: Multipy Strings
+10. Leetcode 48: Rotate Image
+11. Leetcode 50: Pow(x, n)
+12. Leetcode 54: Spiral Matrix I
+13. Leetcode 59: Spiral Matrix II
+14. Leetcode 142: Linked List Cycle II
+15. Leetcode 151: Reverse Words in a String
+16. Leetcode 287: Find the Duplicate Number
+17. Leetcode 537: Complex Number Multiplication
+18. Leetcode 540: Single Element in a Sorted Array
+19. Leetcode 739: Daily Temperatures
 
 ## Hard
 1. Leetcode 4: Median of Two Sorted Arrays
