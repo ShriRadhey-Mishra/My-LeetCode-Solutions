@@ -41,20 +41,21 @@
 38. Leetcode 844: Backspace String Compare
 39. Leetcode 867: Transpose Matrix
 40. Leetcode 896: Monotonic Array
-41. Leetcode 1047: Remove All Adjacent Duplicates in String
-42. Leetcode 1089: Duplicate Zeros
-43. Leetcode 1154: Day of the Year
-44. Leetcode 1323: Maximum 69 Number
-45. Leetcode 1550: Three Consecutive Odds
-46. Leetcode 2441: Largest Positive Integer That Exists With Its Negative
-47. Leetcode 2619: Array Prototype Last
-48. Leetcode 2620: Counter
-49. Leetcode 2621: Sleep
-50. Leetcode 2626: Array Reduce Transformation
-51. Leetcode 2629: Function Composition
-52. Leetcode 2648: Generate Fibonacci Sequence
-53. Leetcode 3174: Clear Digits
-54. Leetcode 3477: Fruits Into Baskets II
+41. Leetcode 1021: Remove Outermost Parenthesis
+42. Leetcode 1047: Remove All Adjacent Duplicates in String
+43. Leetcode 1089: Duplicate Zeros
+44. Leetcode 1154: Day of the Year
+45. Leetcode 1323: Maximum 69 Number
+46. Leetcode 1550: Three Consecutive Odds
+47. Leetcode 2441: Largest Positive Integer That Exists With Its Negative
+48. Leetcode 2619: Array Prototype Last
+49. Leetcode 2620: Counter
+50. Leetcode 2621: Sleep
+51. Leetcode 2626: Array Reduce Transformation
+52. Leetcode 2629: Function Composition
+53. Leetcode 2648: Generate Fibonacci Sequence
+54. Leetcode 3174: Clear Digits
+55. Leetcode 3477: Fruits Into Baskets II
 
 ## Medium
 1. Leetcode 2: Add two numbers
