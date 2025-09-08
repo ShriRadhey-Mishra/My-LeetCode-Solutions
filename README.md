@@ -47,15 +47,16 @@
 44. Leetcode 1154: Day of the Year
 45. Leetcode 1323: Maximum 69 Number
 46. Leetcode 1550: Three Consecutive Odds
-47. Leetcode 2441: Largest Positive Integer That Exists With Its Negative
-48. Leetcode 2619: Array Prototype Last
-49. Leetcode 2620: Counter
-50. Leetcode 2621: Sleep
-51. Leetcode 2626: Array Reduce Transformation
-52. Leetcode 2629: Function Composition
-53. Leetcode 2648: Generate Fibonacci Sequence
-54. Leetcode 3174: Clear Digits
-55. Leetcode 3477: Fruits Into Baskets II
+47. Leetcode 1700: Number of Students Unable to Eat Lunch
+48. Leetcode 2441: Largest Positive Integer That Exists With Its Negative
+49. Leetcode 2619: Array Prototype Last
+50. Leetcode 2620: Counter
+51. Leetcode 2621: Sleep
+52. Leetcode 2626: Array Reduce Transformation
+53. Leetcode 2629: Function Composition
+54. Leetcode 2648: Generate Fibonacci Sequence
+55. Leetcode 3174: Clear Digits
+56. Leetcode 3477: Fruits Into Baskets II
 
 ## Medium
 1. Leetcode 2: Add two numbers
