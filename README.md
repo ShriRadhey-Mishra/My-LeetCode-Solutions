@@ -72,13 +72,14 @@
 11. Leetcode 50: Pow(x, n)
 12. Leetcode 54: Spiral Matrix I
 13. Leetcode 59: Spiral Matrix II
-14. Leetcode 142: Linked List Cycle II
-15. Leetcode 151: Reverse Words in a String
-16. Leetcode 155: Min Stack
-17. Leetcode 287: Find the Duplicate Number
-18. Leetcode 537: Complex Number Multiplication
-19. Leetcode 540: Single Element in a Sorted Array
-20. Leetcode 739: Daily Temperatures
+14. Leetcode 75: Sort Colors
+15. Leetcode 142: Linked List Cycle II
+16. Leetcode 151: Reverse Words in a String
+17. Leetcode 155: Min Stack
+18. Leetcode 287: Find the Duplicate Number
+19. Leetcode 537: Complex Number Multiplication
+20. Leetcode 540: Single Element in a Sorted Array
+21. Leetcode 739: Daily Temperatures
 
 ## Hard
 1. Leetcode 4: Median of Two Sorted Arrays
