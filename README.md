@@ -57,8 +57,8 @@
 54. Leetcode 2629: Function Composition
 55. Leetcode 2648: Generate Fibonacci Sequence
 56. Leetcode 2704: To Be Or Not To Be
-56. Leetcode 3174: Clear Digits
-57. Leetcode 3477: Fruits Into Baskets II
+57. Leetcode 3174: Clear Digits
+58. Leetcode 3477: Fruits Into Baskets II
 
 ## Medium
 1. Leetcode 2: Add two numbers
@@ -83,6 +83,7 @@
 20. Leetcode 537: Complex Number Multiplication
 21. Leetcode 540: Single Element in a Sorted Array
 22. Leetcode 739: Daily Temperatures
+23. Leetcode 2785: Sort Vowels in a String
 
 ## Hard
 1. Leetcode 4: Median of Two Sorted Arrays
