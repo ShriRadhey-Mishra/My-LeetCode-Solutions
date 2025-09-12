@@ -56,9 +56,10 @@
 53. Leetcode 2626: Array Reduce Transformation
 54. Leetcode 2629: Function Composition
 55. Leetcode 2648: Generate Fibonacci Sequence
-56. Leetcode 2704: To Be Or Not To Be
-57. Leetcode 3174: Clear Digits
-58. Leetcode 3477: Fruits Into Baskets II
+56. Leetcode 2703: Return Length of Arguments Passed
+57. Leetcode 2704: To Be Or Not To Be
+58. Leetcode 3174: Clear Digits
+59. Leetcode 3477: Fruits Into Baskets II
 
 ## Medium
 1. Leetcode 2: Add two numbers
