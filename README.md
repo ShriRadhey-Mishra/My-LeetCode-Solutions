@@ -86,7 +86,8 @@
 20. Leetcode 537: Complex Number Multiplication
 21. Leetcode 540: Single Element in a Sorted Array
 22. Leetcode 739: Daily Temperatures
-23. Leetcode 2785: Sort Vowels in a String
+23. Leetcode 950: Reveal Cards In Increasing Order
+24. Leetcode 2785: Sort Vowels in a String
 
 ## Hard
 1. Leetcode 4: Median of Two Sorted Arrays
