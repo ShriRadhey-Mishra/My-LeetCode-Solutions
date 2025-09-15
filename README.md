@@ -79,15 +79,16 @@
 13. Leetcode 59: Spiral Matrix II
 14. Leetcode 75: Sort Colors
 15. Leetcode 142: Linked List Cycle II
-16. Leetcode 151: Reverse Words in a String
-17. Leetcode 155: Min Stack
-18. Leetcode 237: Delete Node value in a Linked List
-19. Leetcode 287: Find the Duplicate Number
-20. Leetcode 537: Complex Number Multiplication
-21. Leetcode 540: Single Element in a Sorted Array
-22. Leetcode 739: Daily Temperatures
-23. Leetcode 950: Reveal Cards In Increasing Order
-24. Leetcode 2785: Sort Vowels in a String
+16. Leetcode 150: Evaluate Reverse Polish Notation
+17. Leetcode 151: Reverse Words in a String
+18. Leetcode 155: Min Stack
+19. Leetcode 237: Delete Node value in a Linked List
+20. Leetcode 287: Find the Duplicate Number
+21. Leetcode 537: Complex Number Multiplication
+22. Leetcode 540: Single Element in a Sorted Array
+23. Leetcode 739: Daily Temperatures
+24. Leetcode 950: Reveal Cards In Increasing Order
+25. Leetcode 2785: Sort Vowels in a String
 
 ## Hard
 1. Leetcode 4: Median of Two Sorted Arrays
