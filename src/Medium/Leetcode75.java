@@ -11,15 +11,21 @@ public class Leetcode75 {
         System.out.println(Arrays.toString(nums));
     }
     public void sortColors(int[] nums) {
-        int count0 = 0, count1 = 0, count2 = 0;
-        for (int number: nums) {
-            if (number == 0) count0++;
-            else if (number == 1) count1++;
-            else count2++;
+        int low = 0, mid = 0, high = nums.length-1;
+        while (mid <= high) {
+            if (nums[mid] == 0) {
+                int temp = nums[low];
+                nums[low++] = nums[mid];
+                nums[mid++] = temp;
+            }
+            else if (nums[mid] == 1) {
+                mid++;
+            }
+            else {
+                int temp = nums[high];
+                nums[high--] = nums[mid];
+                nums[mid] = temp;
+            }
         }
-        int index = 0;
-        for (int i = 0; i < count0; i++) nums[index++] = 0;
-        for (int i = 0; i < count1; i++) nums[index++] = 1;
-        for (int i = 0; i < count2; i++) nums[index++] = 2;
     }
 }
