@@ -63,6 +63,7 @@
 60. Leetcode 2704: To Be Or Not To Be
 61. Leetcode 3174: Clear Digits
 62. Leetcode 3477: Fruits Into Baskets II
+63. Leetcode 3658: GCD of Odd and Even Sums
 
 ## Medium
 1. Leetcode 2: Add two numbers
