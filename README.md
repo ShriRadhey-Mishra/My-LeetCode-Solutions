@@ -92,8 +92,9 @@
 24. Leetcode 739: Daily Temperatures
 25. Leetcode 950: Reveal Cards In Increasing Order
 26. Leetcode 1669: Merge In Between Linked Lists
-27. Leetcode 2785: Sort Vowels in a String
-28. Leetcode 2807: Insert Greatest Common Divisors in Linked List
+27. Leetcode 1721: Swapping Nodes in a Linked List
+28. Leetcode 2785: Sort Vowels in a String
+29. Leetcode 2807: Insert Greatest Common Divisors in Linked List
 
 ## Hard
 1. Leetcode 4: Median of Two Sorted Arrays
