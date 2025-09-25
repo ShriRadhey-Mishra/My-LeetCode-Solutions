@@ -1,6 +1,7 @@
 # Questions solved
 
 ## Easy
+
 1. Leetcode 1: Two Sum
 2. Leetcode 9: Palindrome Number
 3. Leetcode 13: Roman to Integer
@@ -68,11 +69,13 @@
 65. Leetcode 2648: Generate Fibonacci Sequence
 66. Leetcode 2703: Return Length of Arguments Passed
 67. Leetcode 2704: To Be Or Not To Be
-68. Leetcode 3174: Clear Digits
-69. Leetcode 3477: Fruits Into Baskets II
-70. Leetcode 3658: GCD of Odd and Even Sums
+68. Leetcode 2723: Add Two Promises
+69. Leetcode 3174: Clear Digits
+70. Leetcode 3477: Fruits Into Baskets II
+71. Leetcode 3658: GCD of Odd and Even Sums
 
 ## Medium
+
 1. Leetcode 2: Add two numbers
 2. Leetcode 7: Reverse Integer
 3. Leetcode 8: String to Integer (atoi)
@@ -105,4 +108,5 @@
 30. Leetcode 2807: Insert Greatest Common Divisors in Linked List
 
 ## Hard
+
 1. Leetcode 4: Median of Two Sorted Arrays
