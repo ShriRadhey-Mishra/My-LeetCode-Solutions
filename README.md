@@ -22,57 +22,58 @@
 18. Leetcode 100: Same Tree
 19. Leetcode 101: Symmetric Tree
 20. Leetcode 104: Maximum Depth of Binary Tree
-21. Leetcode 121: Best Time to Buy and Sell Stock
-22. Leetcode 125: Valid Palindrome
-23. Leetcode 136: Single Number
-24. Leetcode 141: Linked List Cycle I
-25. Leetcode 144: Binary Tree Preorder Traversal
-26. Leetcode 145: Binary Tree Postorder Traversal
-27. Leetcode 160: Intersection of Two Linked List
-28. Leetcode 169: Majority Element
-29. Leetcode 190: Reverse Bits
-30. Leetcode 191: Number of 1 Bits
-31. Leetcode 202: Happy Number
-32. Leetcode 203: Remove Linked List Elements
-33. Leetcode 206: Reverse Linked List
-34. Leetcode 217: Contains Duplicate
-35. Leetcode 226: Invert Binary Tree
-36. Leetcode 232: Implement Queue using Stacks
-37. Leetcode 242: Valid Anagram
-38. Leetcode 258: Add Digits
-39. Leetcode 268: Missing Number
-40. Leetcode 338: Counting Bits
-41. Leetcode 344: Reverse String
-42. Leetcode 349. Intersection of Two Arrays
-43. Leetcode 374: Guess Number Higher or Lower
-44. Leetcode 412: Fizz Buzz
-45. Leetcode 415: Add Strings
-46. Leetcode 509: Fibonacci Number
-47. Leetcode 682: Baseball Game
-48. Leetcode 832: Flipping an Image
-49. Leetcode 844: Backspace String Compare
-50. Leetcode 867: Transpose Matrix
-51. Leetcode 896: Monotonic Array
-52. Leetcode 1021: Remove Outermost Parenthesis
-53. Leetcode 1047: Remove All Adjacent Duplicates in String
-54. Leetcode 1089: Duplicate Zeros
-55. Leetcode 1154: Day of the Year
-56. Leetcode 1323: Maximum 69 Number
-57. Leetcode 1550: Three Consecutive Odds
-58. Leetcode 1700: Number of Students Unable to Eat Lunch
-59. Leetcode 2441: Largest Positive Integer That Exists With Its Negative
-60. Leetcode 2619: Array Prototype Last
-61. Leetcode 2620: Counter
-62. Leetcode 2621: Sleep
-63. Leetcode 2626: Array Reduce Transformation
-64. Leetcode 2629: Function Composition
-65. Leetcode 2648: Generate Fibonacci Sequence
-66. Leetcode 2703: Return Length of Arguments Passed
-67. Leetcode 2704: To Be Or Not To Be
-68. Leetcode 2723: Add Two Promises
-69. Leetcode 3174: Clear Digits
-70. Leetcode 3477: Fruits Into Baskets II
-71. Leetcode 3658: GCD of Odd and Even Sums
+21. Leetcode 110: Balanced Binary Tree
+22. Leetcode 121: Best Time to Buy and Sell Stock
+23. Leetcode 125: Valid Palindrome
+24. Leetcode 136: Single Number
+25. Leetcode 141: Linked List Cycle I
+26. Leetcode 144: Binary Tree Preorder Traversal
+27. Leetcode 145: Binary Tree Postorder Traversal
+28. Leetcode 160: Intersection of Two Linked List
+29. Leetcode 169: Majority Element
+30. Leetcode 190: Reverse Bits
+31. Leetcode 191: Number of 1 Bits
+32. Leetcode 202: Happy Number
+33. Leetcode 203: Remove Linked List Elements
+34. Leetcode 206: Reverse Linked List
+35. Leetcode 217: Contains Duplicate
+36. Leetcode 226: Invert Binary Tree
+37. Leetcode 232: Implement Queue using Stacks
+38. Leetcode 242: Valid Anagram
+39. Leetcode 258: Add Digits
+40. Leetcode 268: Missing Number
+41. Leetcode 338: Counting Bits
+42. Leetcode 344: Reverse String
+43. Leetcode 349. Intersection of Two Arrays
+44. Leetcode 374: Guess Number Higher or Lower
+45. Leetcode 412: Fizz Buzz
+46. Leetcode 415: Add Strings
+47. Leetcode 509: Fibonacci Number
+48. Leetcode 682: Baseball Game
+49. Leetcode 832: Flipping an Image
+50. Leetcode 844: Backspace String Compare
+51. Leetcode 867: Transpose Matrix
+52. Leetcode 896: Monotonic Array
+53. Leetcode 1021: Remove Outermost Parenthesis
+54. Leetcode 1047: Remove All Adjacent Duplicates in String
+55. Leetcode 1089: Duplicate Zeros
+56. Leetcode 1154: Day of the Year
+57. Leetcode 1323: Maximum 69 Number
+58. Leetcode 1550: Three Consecutive Odds
+59. Leetcode 1700: Number of Students Unable to Eat Lunch
+60. Leetcode 2441: Largest Positive Integer That Exists With Its Negative
+61. Leetcode 2619: Array Prototype Last
+62. Leetcode 2620: Counter
+63. Leetcode 2621: Sleep
+64. Leetcode 2626: Array Reduce Transformation
+65. Leetcode 2629: Function Composition
+66. Leetcode 2648: Generate Fibonacci Sequence
+67. Leetcode 2703: Return Length of Arguments Passed
+68. Leetcode 2704: To Be Or Not To Be
+69. Leetcode 2723: Add Two Promises
+70. Leetcode 3174: Clear Digits
+71. Leetcode 3477: Fruits Into Baskets II
+72. Leetcode 3658: GCD of Odd and Even Sums
 
 ## Medium
 
