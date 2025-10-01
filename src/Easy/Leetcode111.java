@@ -6,7 +6,7 @@ import java.util.Queue;
 public class Leetcode111 {
     public static void main(String[] args) {
         Leetcode111 obj = new Leetcode111();
-        TreeNode root = new TreeNode(10, 
+        TreeNode root = new TreeNode(10,
                 new TreeNode(20,
                         new TreeNode(40,
                                 new TreeNode(80),
