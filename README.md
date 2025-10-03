@@ -96,21 +96,23 @@
 13. Leetcode 59: Spiral Matrix II
 14. Leetcode 75: Sort Colors
 15. Leetcode 102: Binary Treee Level Order Traversal
-16. Leetcode 142: Linked List Cycle II
-17. Leetcode 150: Evaluate Reverse Polish Notation
-18. Leetcode 151: Reverse Words in a String
-19. Leetcode 155: Min Stack
-20. Leetcode 237: Delete Node value in a Linked List
-21. Leetcode 287: Find the Duplicate Number
-22. Leetcode 394: Decode String
-23. Leetcode 537: Complex Number Multiplication
-24. Leetcode 540: Single Element in a Sorted Array
-25. Leetcode 739: Daily Temperatures
-26. Leetcode 950: Reveal Cards In Increasing Order
-27. Leetcode 1669: Merge In Between Linked Lists
-28. Leetcode 1721: Swapping Nodes in a Linked List
-29. Leetcode 2785: Sort Vowels in a String
-30. Leetcode 2807: Insert Greatest Common Divisors in Linked List
+16. Leetcode 105: Construct Binary Tree from Preorder and Inorder Traversal
+17. Leetcode 106: Construct Binary Tree from Inorder and Postorder Traversal
+18. Leetcode 142: Linked List Cycle II
+19. Leetcode 150: Evaluate Reverse Polish Notation
+20. Leetcode 151: Reverse Words in a String
+21. Leetcode 155: Min Stack
+22. Leetcode 237: Delete Node value in a Linked List
+23. Leetcode 287: Find the Duplicate Number
+24. Leetcode 394: Decode String
+25. Leetcode 537: Complex Number Multiplication
+26. Leetcode 540: Single Element in a Sorted Array
+27. Leetcode 739: Daily Temperatures
+28. Leetcode 950: Reveal Cards In Increasing Order
+29. Leetcode 1669: Merge In Between Linked Lists
+30. Leetcode 1721: Swapping Nodes in a Linked List
+31. Leetcode 2785: Sort Vowels in a String
+32. Leetcode 2807: Insert Greatest Common Divisors in Linked List
 
 ## Hard
 
