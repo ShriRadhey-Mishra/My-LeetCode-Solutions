@@ -102,6 +102,7 @@
 19. Leetcode 150: Evaluate Reverse Polish Notation
 20. Leetcode 151: Reverse Words in a String
 21. Leetcode 155: Min Stack
+22. Leetcode 230: Kth Smallest Element in a BST
 22. Leetcode 237: Delete Node value in a Linked List
 23. Leetcode 287: Find the Duplicate Number
 24. Leetcode 394: Decode String
