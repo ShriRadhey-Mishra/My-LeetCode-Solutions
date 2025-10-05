@@ -65,19 +65,20 @@
 61. Leetcode 1323: Maximum 69 Number
 62. Leetcode 1550: Three Consecutive Odds
 63. Leetcode 1700: Number of Students Unable to Eat Lunch
-64. Leetcode 2441: Largest Positive Integer That Exists With Its Negative
-65. Leetcode 2619: Array Prototype Last
-66. Leetcode 2620: Counter
-67. Leetcode 2621: Sleep
-68. Leetcode 2626: Array Reduce Transformation
-69. Leetcode 2629: Function Composition
-70. Leetcode 2648: Generate Fibonacci Sequence
-71. Leetcode 2703: Return Length of Arguments Passed
-72. Leetcode 2704: To Be Or Not To Be
-73. Leetcode 2723: Add Two Promises
-74. Leetcode 3174: Clear Digits
-75. Leetcode 3477: Fruits Into Baskets II
-76. Leetcode 3658: GCD of Odd and Even Sums
+64. Leetcode 2169: Count Operations to Obtain Zero
+65. Leetcode 2441: Largest Positive Integer That Exists With Its Negative
+66. Leetcode 2619: Array Prototype Last
+67. Leetcode 2620: Counter
+68. Leetcode 2621: Sleep
+69. Leetcode 2626: Array Reduce Transformation
+70. Leetcode 2629: Function Composition
+71. Leetcode 2648: Generate Fibonacci Sequence
+72. Leetcode 2703: Return Length of Arguments Passed
+73. Leetcode 2704: To Be Or Not To Be
+74. Leetcode 2723: Add Two Promises
+75. Leetcode 3174: Clear Digits
+76. Leetcode 3477: Fruits Into Baskets II
+77. Leetcode 3658: GCD of Odd and Even Sums
 
 ## Medium
 
