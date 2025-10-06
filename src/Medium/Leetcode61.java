@@ -11,27 +11,24 @@ public class Leetcode61 {
     }
 
     public ListNode rotateRight(ListNode head, int k) {
-        if (head == null) return null;
+        if (head == null || head.next == null || k == 0) {
+            return head;
+        }
         ListNode tail = head;
         int count = 1;
         while (tail.next!=null) {
             count++;
             tail = tail.next;
         }
-
+        tail.next = head;
         k %= count;
-
-
+        k = count - k;  // rotate left
         for (int i = 0; i < k; i++) {
-            ListNode ptr = head;
-            while (ptr != tail) {
-                int temp = ptr.val;
-                ptr.val = tail.val;
-                tail.val = temp;
-                ptr = ptr.next;
-            }
+            tail = tail.next;
         }
 
+        head = tail.next;
+        tail.next = null;
         return head;
     }
 }
