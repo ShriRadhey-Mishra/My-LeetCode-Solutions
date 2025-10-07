@@ -72,6 +72,7 @@
 68. Leetcode 2621: Sleep
 69. Leetcode 2626: Array Reduce Transformation
 70. Leetcode 2629: Function Composition
+71. Leetcode 2634: Filter Elements from Array
 71. Leetcode 2648: Generate Fibonacci Sequence
 72. Leetcode 2703: Return Length of Arguments Passed
 73. Leetcode 2704: To Be Or Not To Be
