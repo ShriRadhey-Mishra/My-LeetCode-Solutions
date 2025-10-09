@@ -76,12 +76,13 @@
 72. Leetcode 2635: Apply Transform Over Each Element in Array
 73. Leetcode 2648: Generate Fibonacci Sequence
 74. Leetcode 2665: Counter II
-75. Leetcode 2703: Return Length of Arguments Passed
-76. Leetcode 2704: To Be Or Not To Be
-77. Leetcode 2723: Add Two Promises
-78. Leetcode 3174: Clear Digits
-79. Leetcode 3477: Fruits Into Baskets II
-80. Leetcode 3658: GCD of Odd and Even Sums
+75. Leetcode 2667: Create Hello World Function
+76. Leetcode 2703: Return Length of Arguments Passed
+77. Leetcode 2704: To Be Or Not To Be
+78. Leetcode 2723: Add Two Promises
+79. Leetcode 3174: Clear Digits
+80. Leetcode 3477: Fruits Into Baskets II
+81. Leetcode 3658: GCD of Odd and Even Sums
 
 ## Medium
 
@@ -93,14 +94,14 @@
 6. Leetcode 29: Divide Two Integer
 7. Leetcode 34: Find First and Last Position of Element in Sorted Array
 8. Leetcode 36: Valid Sudoku
-9. Leetcode 43: Multipy Strings
+9. Leetcode 43: Multiply Strings
 10. Leetcode 48: Rotate Image
 11. Leetcode 50: Pow(x, n)
 12. Leetcode 54: Spiral Matrix I
 13. Leetcode 59: Spiral Matrix II
 14. Leetcode 61: Rotate List
 15. Leetcode 75: Sort Colors
-16. Leetcode 102: Binary Treee Level Order Traversal
+16. Leetcode 102: Binary Tree Level Order Traversal
 17. Leetcode 105: Construct Binary Tree from Preorder and Inorder Traversal
 18. Leetcode 106: Construct Binary Tree from Inorder and Postorder Traversal
 19. Leetcode 142: Linked List Cycle II
