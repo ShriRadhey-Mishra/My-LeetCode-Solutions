@@ -80,9 +80,10 @@
 76. Leetcode 2703: Return Length of Arguments Passed
 77. Leetcode 2704: To Be Or Not To Be
 78. Leetcode 2723: Add Two Promises
-79. Leetcode 3174: Clear Digits
-80. Leetcode 3477: Fruits Into Baskets II
-81. Leetcode 3658: GCD of Odd and Even Sums
+79. Leetcode 2727: Is Object Empty
+80. Leetcode 3174: Clear Digits
+81. Leetcode 3477: Fruits Into Baskets II
+82. Leetcode 3658: GCD of Odd and Even Sums
 
 ## Medium
 
