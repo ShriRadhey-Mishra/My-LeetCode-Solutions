@@ -78,13 +78,14 @@
 74. Leetcode 2665: Counter II
 75. Leetcode 2666: Allow One Function Call
 76. Leetcode 2667: Create Hello World Function
-77. Leetcode 2703: Return Length of Arguments Passed
-78. Leetcode 2704: To Be Or Not To Be
-79. Leetcode 2723: Add Two Promises
-80. Leetcode 2727: Is Object Empty
-81. Leetcode 3174: Clear Digits
-82. Leetcode 3477: Fruits Into Baskets II
-83. Leetcode 3658: GCD of Odd and Even Sums
+77. Leetcode 2677: Chunk Array
+78. Leetcode 2703: Return Length of Arguments Passed
+79. Leetcode 2704: To Be Or Not To Be
+80. Leetcode 2723: Add Two Promises
+81. Leetcode 2727: Is Object Empty
+82. Leetcode 3174: Clear Digits
+83. Leetcode 3477: Fruits Into Baskets II
+84. Leetcode 3658: GCD of Odd and Even Sums
 
 ## Medium
 
