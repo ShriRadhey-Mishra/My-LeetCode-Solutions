@@ -104,26 +104,27 @@
 13. Leetcode 59: Spiral Matrix II
 14. Leetcode 61: Rotate List
 15. Leetcode 75: Sort Colors
-16. Leetcode 102: Binary Tree Level Order Traversal
-17. Leetcode 105: Construct Binary Tree from Preorder and Inorder Traversal
-18. Leetcode 106: Construct Binary Tree from Inorder and Postorder Traversal
-19. Leetcode 142: Linked List Cycle II
-20. Leetcode 150: Evaluate Reverse Polish Notation
-21. Leetcode 151: Reverse Words in a String
-22. Leetcode 155: Min Stack
-23. Leetcode 198: House Robber I
-24. Leetcode 230: Kth Smallest Element in a BST
-25. Leetcode 237: Delete Node value in a Linked List
-26. Leetcode 287: Find the Duplicate Number
-27. Leetcode 394: Decode String
-28. Leetcode 537: Complex Number Multiplication
-29. Leetcode 540: Single Element in a Sorted Array
-30. Leetcode 739: Daily Temperatures
-31. Leetcode 950: Reveal Cards In Increasing Order
-32. Leetcode 1669: Merge In Between Linked Lists
-33. Leetcode 1721: Swapping Nodes in a Linked List
-34. Leetcode 2785: Sort Vowels in a String
-35. Leetcode 2807: Insert Greatest Common Divisors in Linked List
+16. Leetcode 92: Reverse Linked List II
+17. Leetcode 102: Binary Tree Level Order Traversal
+18. Leetcode 105: Construct Binary Tree from Preorder and Inorder Traversal
+19. Leetcode 106: Construct Binary Tree from Inorder and Postorder Traversal
+20. Leetcode 142: Linked List Cycle II
+21. Leetcode 150: Evaluate Reverse Polish Notation
+22. Leetcode 151: Reverse Words in a String
+23. Leetcode 155: Min Stack
+24. Leetcode 198: House Robber I
+25. Leetcode 230: Kth Smallest Element in a BST
+26. Leetcode 237: Delete Node value in a Linked List
+27. Leetcode 287: Find the Duplicate Number
+28. Leetcode 394: Decode String
+29. Leetcode 537: Complex Number Multiplication
+30. Leetcode 540: Single Element in a Sorted Array
+31. Leetcode 739: Daily Temperatures
+32. Leetcode 950: Reveal Cards In Increasing Order
+33. Leetcode 1669: Merge In Between Linked Lists
+34. Leetcode 1721: Swapping Nodes in a Linked List
+35. Leetcode 2785: Sort Vowels in a String
+36. Leetcode 2807: Insert Greatest Common Divisors in Linked List
 
 ## Hard
 
