@@ -40,6 +40,7 @@
 36. Leetcode 206: Reverse Linked List
 37. Leetcode 217: Contains Duplicate
 38. Leetcode 226: Invert Binary Tree
+39. Leetcode 231: Power of Two
 39. Leetcode 232: Implement Queue using Stacks
 40. Leetcode 242: Valid Anagram
 41. Leetcode 257: Binary Tree Paths
