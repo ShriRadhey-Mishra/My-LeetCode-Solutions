@@ -116,18 +116,19 @@
 23. Leetcode 155: Min Stack
 24. Leetcode 198: House Robber I
 25. Leetcode 230: Kth Smallest Element in a BST
-26. Leetcode 236: Lowest Common Ancestor of a Binary Tree
-27. Leetcode 237: Delete Node value in a Linked List
-28. Leetcode 287: Find the Duplicate Number
-29. Leetcode 394: Decode String
-30. Leetcode 537: Complex Number Multiplication
-31. Leetcode 540: Single Element in a Sorted Array
-32. Leetcode 739: Daily Temperatures
-33. Leetcode 950: Reveal Cards In Increasing Order
-34. Leetcode 1669: Merge In Between Linked Lists
-35. Leetcode 1721: Swapping Nodes in a Linked List
-36. Leetcode 2785: Sort Vowels in a String
-37. Leetcode 2807: Insert Greatest Common Divisors in Linked List
+26. Leetcode 235: Lowest Common Ancestor of a Binary Search Tree
+27. Leetcode 236: Lowest Common Ancestor of a Binary Tree
+28. Leetcode 237: Delete Node value in a Linked List
+29. Leetcode 287: Find the Duplicate Number
+30. Leetcode 394: Decode String
+31. Leetcode 537: Complex Number Multiplication
+32. Leetcode 540: Single Element in a Sorted Array
+33. Leetcode 739: Daily Temperatures
+34. Leetcode 950: Reveal Cards In Increasing Order
+35. Leetcode 1669: Merge In Between Linked Lists
+36. Leetcode 1721: Swapping Nodes in a Linked List
+37. Leetcode 2785: Sort Vowels in a String
+38. Leetcode 2807: Insert Greatest Common Divisors in Linked List
 
 ## Hard
 
