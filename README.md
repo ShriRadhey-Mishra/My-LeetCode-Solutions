@@ -81,7 +81,7 @@
 77. Leetcode 2667: Create Hello World Function
 78. Leetcode 2677: Chunk Array
 79. Leetcode 2703: Return Length of Arguments Passed
-80. Leetcode 2704: To Be Or Not To Be
+80. Leetcode 2704: To Be or Not To Be
 81. Leetcode 2715: Timeout Cancellation
 82. Leetcode 2723: Add Two Promises
 83. Leetcode 2726: Calculator with Method Chaining
