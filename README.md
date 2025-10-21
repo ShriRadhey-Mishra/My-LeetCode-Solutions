@@ -86,11 +86,12 @@
 82. Leetcode 2715: Timeout Cancellation
 83. Leetcode 2723: Add Two Promises
 84. Leetcode 2724: Sort by
-85. Leetcode 2726: Calculator with Method Chaining
-86. Leetcode 2727: Is Object Empty
-87. Leetcode 3174: Clear Digits
-88. Leetcode 3477: Fruits Into Baskets II
-89. Leetcode 3658: GCD of Odd and Even Sums
+85. Leetcode 2725: Interval Cancellation
+86. Leetcode 2726: Calculator with Method Chaining
+87. Leetcode 2727: Is Object Empty
+88. Leetcode 3174: Clear Digits
+89. Leetcode 3477: Fruits Into Baskets II
+90. Leetcode 3658: GCD of Odd and Even Sums
 
 ## Medium
 
