@@ -92,6 +92,7 @@
 88. Leetcode 3174: Clear Digits
 89. Leetcode 3477: Fruits Into Baskets II
 90. Leetcode 3658: GCD of Odd and Even Sums
+91. Leetcode 3668: Restore Finishing Order
 
 ## Medium
 
