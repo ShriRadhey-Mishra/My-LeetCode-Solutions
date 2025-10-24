@@ -53,47 +53,48 @@
 49. Leetcode 412: Fizz Buzz
 50. Leetcode 415: Add Strings
 51. Leetcode 509: Fibonacci Number
-52. Leetcode 617: Merge Two Binary Trees
-53. Leetcode 682: Baseball Game
-54. Leetcode 771: Jewels and Stones
-55. Leetcode 832: Flipping an Image
-56. Leetcode 844: Backspace String Compare
-57. Leetcode 867: Transpose Matrix
-58. Leetcode 896: Monotonic Array
-59. Leetcode 1021: Remove Outermost Parenthesis
-60. Leetcode 1047: Remove All Adjacent Duplicates in String
-61. Leetcode 1089: Duplicate Zeros
-62. Leetcode 1154: Day of the Year
-63. Leetcode 1323: Maximum 69 Number
-64. Leetcode 1550: Three Consecutive Odds
-65. Leetcode 1700: Number of Students Unable to Eat Lunch
-66. Leetcode 2169: Count Operations to Obtain Zero
-67. Leetcode 2441: Largest Positive Integer That Exists With Its Negative
-68. Leetcode 2619: Array Prototype Last
-69. Leetcode 2620: Counter
-70. Leetcode 2621: Sleep
-71. Leetcode 2626: Array Reduce Transformation
-72. Leetcode 2629: Function Composition
-73. Leetcode 2634: Filter Elements from Array
-74. Leetcode 2635: Apply Transform Over Each Element in Array
-75. Leetcode 2648: Generate Fibonacci Sequence
-76. Leetcode 2665: Counter II
-77. Leetcode 2666: Allow One Function Call
-78. Leetcode 2667: Create Hello World Function
-79. Leetcode 2677: Chunk Array
-80. Leetcode 2695: Array Wrapper 
-81. Leetcode 2703: Return Length of Arguments Passed
-82. Leetcode 2704: To Be or Not To Be
-83. Leetcode 2715: Timeout Cancellation
-84. Leetcode 2723: Add Two Promises
-85. Leetcode 2724: Sort by
-86. Leetcode 2725: Interval Cancellation
-87. Leetcode 2726: Calculator with Method Chaining
-88. Leetcode 2727: Is Object Empty
-89. Leetcode 3174: Clear Digits
-90. Leetcode 3477: Fruits Into Baskets II
-91. Leetcode 3658: GCD of Odd and Even Sums
-92. Leetcode 3668: Restore Finishing Order
+52. Leetcode 543: Diameter of Binary Tree
+53. Leetcode 617: Merge Two Binary Trees
+54. Leetcode 682: Baseball Game
+55. Leetcode 771: Jewels and Stones
+56. Leetcode 832: Flipping an Image
+57. Leetcode 844: Backspace String Compare
+58. Leetcode 867: Transpose Matrix
+59. Leetcode 896: Monotonic Array
+60. Leetcode 1021: Remove Outermost Parenthesis
+61. Leetcode 1047: Remove All Adjacent Duplicates in String
+62. Leetcode 1089: Duplicate Zeros
+63. Leetcode 1154: Day of the Year
+64. Leetcode 1323: Maximum 69 Number
+65. Leetcode 1550: Three Consecutive Odds
+66. Leetcode 1700: Number of Students Unable to Eat Lunch
+67. Leetcode 2169: Count Operations to Obtain Zero
+68. Leetcode 2441: Largest Positive Integer That Exists With Its Negative
+69. Leetcode 2619: Array Prototype Last
+70. Leetcode 2620: Counter
+71. Leetcode 2621: Sleep
+72. Leetcode 2626: Array Reduce Transformation
+73. Leetcode 2629: Function Composition
+74. Leetcode 2634: Filter Elements from Array
+75. Leetcode 2635: Apply Transform Over Each Element in Array
+76. Leetcode 2648: Generate Fibonacci Sequence
+77. Leetcode 2665: Counter II
+78. Leetcode 2666: Allow One Function Call
+79. Leetcode 2667: Create Hello World Function
+80. Leetcode 2677: Chunk Array
+81. Leetcode 2695: Array Wrapper 
+82. Leetcode 2703: Return Length of Arguments Passed
+83. Leetcode 2704: To Be or Not To Be
+84. Leetcode 2715: Timeout Cancellation
+85. Leetcode 2723: Add Two Promises
+86. Leetcode 2724: Sort by
+87. Leetcode 2725: Interval Cancellation
+88. Leetcode 2726: Calculator with Method Chaining
+89. Leetcode 2727: Is Object Empty
+90. Leetcode 3174: Clear Digits
+91. Leetcode 3477: Fruits Into Baskets II
+92. Leetcode 3658: GCD of Odd and Even Sums
+93. Leetcode 3668: Restore Finishing Order
 
 ## Medium
 
