@@ -135,10 +135,11 @@
 33. Leetcode 540: Single Element in a Sorted Array
 34. Leetcode 739: Daily Temperatures
 35. Leetcode 950: Reveal Cards In Increasing Order
-36. Leetcode 1669: Merge In Between Linked Lists
-37. Leetcode 1721: Swapping Nodes in a Linked List
-38. Leetcode 2785: Sort Vowels in a String
-39. Leetcode 2807: Insert Greatest Common Divisors in Linked List
+36. Leetcode 1143: Longest Common Subsequence
+37. Leetcode 1669: Merge In Between Linked Lists
+38. Leetcode 1721: Swapping Nodes in a Linked List
+39. Leetcode 2785: Sort Vowels in a String
+40. Leetcode 2807: Insert Greatest Common Divisors in Linked List
 
 ## Hard
 
