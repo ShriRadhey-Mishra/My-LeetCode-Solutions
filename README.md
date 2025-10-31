@@ -96,9 +96,10 @@
 92. Leetcode 2726: Calculator with Method Chaining
 93. Leetcode 2727: Is Object Empty
 94. Leetcode 3174: Clear Digits
-95. Leetcode 3477: Fruits Into Baskets II
-96. Leetcode 3658: GCD of Odd and Even Sums
-97. Leetcode 3668: Restore Finishing Order
+95. Leetcode 3289: The Two Sneaky Numbers of Digitville
+96. Leetcode 3477: Fruits Into Baskets II
+97. Leetcode 3658: GCD of Odd and Even Sums
+98. Leetcode 3668: Restore Finishing Order
 
 ## Medium
 
