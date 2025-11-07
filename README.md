@@ -96,11 +96,12 @@
 92. Leetcode 2725: Interval Cancellation
 93. Leetcode 2726: Calculator with Method Chaining
 94. Leetcode 2727: Is Object Empty
-95. Leetcode 3174: Clear Digits
-96. Leetcode 3289: The Two Sneaky Numbers of Digitville
-97. Leetcode 3477: Fruits Into Baskets II
-98. Leetcode 3658: GCD of Odd and Even Sums
-99. Leetcode 3668: Restore Finishing Order
+95. Leetcode 2879: Display the First Three Rows
+96. Leetcode 3174: Clear Digits
+97. Leetcode 3289: The Two Sneaky Numbers of Digitville
+98. Leetcode 3477: Fruits Into Baskets II
+99. Leetcode 3658: GCD of Odd and Even Sums
+100. Leetcode 3668: Restore Finishing Order
 
 ## Medium
 
@@ -108,44 +109,47 @@
 2. Leetcode 6: Zigzag Conversion
 3. Leetcode 7: Reverse Integer
 4. Leetcode 8: String to Integer (atoi)
-5. Leetcode 12: Integer to Roman
-6. Leetcode 19: Remove Nth Node from End of the List
-7. Leetcode 24: Swap Nodes in Pair
-8. Leetcode 29: Divide Two Integer
-9. Leetcode 34: Find First and Last Position of Element in Sorted Array
-10. Leetcode 36: Valid Sudoku
-11. Leetcode 43: Multiply Strings
-12. Leetcode 48: Rotate Image
-13. Leetcode 50: Pow(x, n)
-14. Leetcode 54: Spiral Matrix I
-15. Leetcode 59: Spiral Matrix II
-16. Leetcode 61: Rotate List
-17. Leetcode 75: Sort Colors
-18. Leetcode 92: Reverse Linked List II
-19. Leetcode 98: Validate BST
-20. Leetcode 102: Binary Tree Level Order Traversal
-21. Leetcode 105: Construct Binary Tree from Preorder and Inorder Traversal
-22. Leetcode 106: Construct Binary Tree from Inorder and Postorder Traversal
-23. Leetcode 142: Linked List Cycle II
-24. Leetcode 150: Evaluate Reverse Polish Notation
-25. Leetcode 151: Reverse Words in a String
-26. Leetcode 155: Min Stack
-27. Leetcode 198: House Robber I
-28. Leetcode 230: Kth Smallest Element in a BST
-29. Leetcode 235: Lowest Common Ancestor of a Binary Search Tree
-30. Leetcode 236: Lowest Common Ancestor of a Binary Tree
-31. Leetcode 237: Delete Node value in a Linked List
-32. Leetcode 287: Find the Duplicate Number
-33. Leetcode 394: Decode String
-34. Leetcode 537: Complex Number Multiplication
-35. Leetcode 540: Single Element in a Sorted Array
-36. Leetcode 739: Daily Temperatures
-37. Leetcode 950: Reveal Cards In Increasing Order
-38. Leetcode 1143: Longest Common Subsequence
-39. Leetcode 1669: Merge In Between Linked Lists
-40. Leetcode 1721: Swapping Nodes in a Linked List
-41. Leetcode 2785: Sort Vowels in a String
-42. Leetcode 2807: Insert Greatest Common Divisors in Linked List
+5. Leetcode 11: Container with Most Water
+6. Leetcode 12: Integer to Roman
+7. Leetcode 19: Remove Nth Node from End of the List
+8. Leetcode 24: Swap Nodes in Pair
+9. Leetcode 29: Divide Two Integer
+10. Leetcode 34: Find First and Last Position of Element in Sorted Array
+11. Leetcode 36: Valid Sudoku
+12. Leetcode 43: Multiply Strings
+13. Leetcode 48: Rotate Image
+14. Leetcode 50: Pow(x, n)
+15. Leetcode 54: Spiral Matrix I
+16. Leetcode 59: Spiral Matrix II
+17. Leetcode 61: Rotate List
+18. Leetcode 75: Sort Colors
+19. Leetcode 92: Reverse Linked List II
+20. Leetcode 98: Validate BST
+21. Leetcode 102: Binary Tree Level Order Traversal
+22. Leetcode 105: Construct Binary Tree from Preorder and Inorder Traversal
+23. Leetcode 106: Construct Binary Tree from Inorder and Postorder Traversal
+24. Leetcode 142: Linked List Cycle II
+25. Leetcode 150: Evaluate Reverse Polish Notation
+26. Leetcode 151: Reverse Words in a String
+27. Leetcode 155: Min Stack
+28. Leetcode 198: House Robber I
+29. Leetcode 230: Kth Smallest Element in a BST
+30. Leetcode 235: Lowest Common Ancestor of a Binary Search Tree
+31. Leetcode 236: Lowest Common Ancestor of a Binary Tree
+32. Leetcode 237: Delete Node value in a Linked List
+33. Leetcode 287: Find the Duplicate Number
+34. Leetcode 371: Sum of Two Integers
+35. Leetcode 394: Decode String
+36. Leetcode 417: Pacific Atlantic Water Flow
+37. Leetcode 537: Complex Number Multiplication
+38. Leetcode 540: Single Element in a Sorted Array
+39. Leetcode 739: Daily Temperatures
+40. Leetcode 950: Reveal Cards In Increasing Order
+41. Leetcode 1143: Longest Common Subsequence
+42. Leetcode 1669: Merge In Between Linked Lists
+43. Leetcode 1721: Swapping Nodes in a Linked List
+44. Leetcode 2785: Sort Vowels in a String
+45. Leetcode 2807: Insert Greatest Common Divisors in Linked List
 
 ## Hard
 
