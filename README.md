@@ -110,6 +110,7 @@
 106. Leetcode 3477: Fruits Into Baskets II
 107. Leetcode 3658: GCD of Odd and Even Sums
 108. Leetcode 3668: Restore Finishing Order
+109. Leetcode 3701: Compute Alternating Sum
 
 ## Medium
 
