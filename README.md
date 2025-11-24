@@ -110,13 +110,14 @@
 106. Leetcode 2725: Interval Cancellation
 107. Leetcode 2726: Calculator with Method Chaining
 108. Leetcode 2727: Is Object Empty
-109. Leetcode 2879: Display the First Three Rows
-110. Leetcode 3174: Clear Digits
-111. Leetcode 3289: The Two Sneaky Numbers of Digitville
-112. Leetcode 3477: Fruits Into Baskets II
-113. Leetcode 3658: GCD of Odd and Even Sums
-114. Leetcode 3668: Restore Finishing Order
-115. Leetcode 3701: Compute Alternating Sum
+109. Leetcode 2824: Count Pairs Whose Sum is Less than Target
+110. Leetcode 2879: Display the First Three Rows
+111. Leetcode 3174: Clear Digits
+112. Leetcode 3289: The Two Sneaky Numbers of Digitville
+113. Leetcode 3477: Fruits Into Baskets II
+114. Leetcode 3658: GCD of Odd and Even Sums
+115. Leetcode 3668: Restore Finishing Order
+116. Leetcode 3701: Compute Alternating Sum
 
 ## Medium
 
