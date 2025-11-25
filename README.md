@@ -115,9 +115,10 @@
 111. Leetcode 3174: Clear Digits
 112. Leetcode 3289: The Two Sneaky Numbers of Digitville
 113. Leetcode 3477: Fruits Into Baskets II
-114. Leetcode 3658: GCD of Odd and Even Sums
-115. Leetcode 3668: Restore Finishing Order
-116. Leetcode 3701: Compute Alternating Sum
+114. Leetcode 3541: Find Most Frequent Vowel and Consonant
+115. Leetcode 3658: GCD of Odd and Even Sums
+116. Leetcode 3668: Restore Finishing Order
+117. Leetcode 3701: Compute Alternating Sum
 
 ## Medium
 
