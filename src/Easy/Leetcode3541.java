@@ -5,7 +5,7 @@ import java.util.HashMap;
 public class Leetcode3541 {
     public static void main(String[] args) {
         Leetcode3541 obj = new Leetcode3541();
-        String s = "success";
+        String s = "successes";
         System.out.println(obj.maxFreqSum(s));
     }
     public int maxFreqSum(String s) {
