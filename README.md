@@ -112,13 +112,14 @@
 108. Leetcode 2727: Is Object Empty
 109. Leetcode 2824: Count Pairs Whose Sum is Less than Target
 110. Leetcode 2879: Display the First Three Rows
-111. Leetcode 3174: Clear Digits
-112. Leetcode 3289: The Two Sneaky Numbers of Digitville
-113. Leetcode 3477: Fruits Into Baskets II
-114. Leetcode 3541: Find Most Frequent Vowel and Consonant
-115. Leetcode 3658: GCD of Odd and Even Sums
-116. Leetcode 3668: Restore Finishing Order
-117. Leetcode 3701: Compute Alternating Sum
+111. Leetcode 3114: Latest Time You Can Obtain After Replacing Characters
+112. Leetcode 3174: Clear Digits
+113. Leetcode 3289: The Two Sneaky Numbers of Digitville
+114. Leetcode 3477: Fruits Into Baskets II
+115. Leetcode 3541: Find Most Frequent Vowel and Consonant
+116. Leetcode 3658: GCD of Odd and Even Sums
+117. Leetcode 3668: Restore Finishing Order
+118. Leetcode 3701: Compute Alternating Sum
 
 ## Medium
 
