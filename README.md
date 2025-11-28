@@ -84,6 +84,7 @@
 80. Leetcode 1700: Number of Students Unable to Eat Lunch
 81. Leetcode 1716: Calculate Money in Leetcode Bank
 82. Leetcode 1790: Check if One String Swap Can Make Strings Equal
+83. Leetcode 1920: Build Array from Permutation
 83. Leetcode 1929: Concatenation of Array
 84. Leetcode 2000: Reverse Prefix of Word
 85. Leetcode 2114: Maximum Number of Words Found in Sentences
