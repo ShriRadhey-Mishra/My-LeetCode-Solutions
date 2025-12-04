@@ -88,6 +88,7 @@
 84. Leetcode 1920: Build Array from Permutation
 85. Leetcode 1929: Concatenation of Array
 86. Leetcode 2000: Reverse Prefix of Word
+87. Leetcode 2011: Final Value of Variable After Performing Operations
 87. Leetcode 2114: Maximum Number of Words Found in Sentences
 88. Leetcode 2169: Count Operations to Obtain Zero
 89. Leetcode 2441: Largest Positive Integer That Exists With Its Negative
