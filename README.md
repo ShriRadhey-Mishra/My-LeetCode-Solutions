@@ -122,14 +122,15 @@
 118. Leetcode 3110: Score of a String
 119. Leetcode 3114: Latest Time You Can Obtain After Replacing Characters
 120. Leetcode 3174: Clear Digits
-121. Leetcode 3289: The Two Sneaky Numbers of Digitville
-122. Leetcode 3467: Transform Array by Parity
-123. Leetcode 3477: Fruits Into Baskets II
-124. Leetcode 3498: Reverse Degree of a String
-125. Leetcode 3541: Find Most Frequent Vowel and Consonant
-126. Leetcode 3658: GCD of Odd and Even Sums
-127. Leetcode 3668: Restore Finishing Order
-128. Leetcode 3701: Compute Alternating Sum
+121. Leetcode 3280: Convert Date to Binary
+122. Leetcode 3289: The Two Sneaky Numbers of Digitville
+123. Leetcode 3467: Transform Array by Parity
+124. Leetcode 3477: Fruits Into Baskets II
+125. Leetcode 3498: Reverse Degree of a String
+126. Leetcode 3541: Find Most Frequent Vowel and Consonant
+127. Leetcode 3658: GCD of Odd and Even Sums
+128. Leetcode 3668: Restore Finishing Order
+129. Leetcode 3701: Compute Alternating Sum
 
 ## Medium
 
