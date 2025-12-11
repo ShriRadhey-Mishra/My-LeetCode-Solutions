@@ -1,8 +1,5 @@
 package Easy;
 
-import java.util.HashSet;
-import java.util.Set;
-
 public class Leetcode1684 {
     public static void main(String[] args) {
         Leetcode1684 obj = new Leetcode1684();
