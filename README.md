@@ -132,10 +132,11 @@
 128. Leetcode 3467: Transform Array by Parity
 129. Leetcode 3477: Fruits Into Baskets II
 130. Leetcode 3498: Reverse Degree of a String
-131. Leetcode 3541: Find Most Frequent Vowel and Consonant
-132. Leetcode 3658: GCD of Odd and Even Sums
-133. Leetcode 3668: Restore Finishing Order
-134. Leetcode 3701: Compute Alternating Sum
+131. Leetcode 3512: Minimum Operations to Make Array Sum Divisible by K
+132. Leetcode 3541: Find Most Frequent Vowel and Consonant
+133. Leetcode 3658: GCD of Odd and Even Sums
+134. Leetcode 3668: Restore Finishing Order
+135. Leetcode 3701: Compute Alternating Sum
 
 ## Medium
 
